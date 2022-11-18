@@ -15,5 +15,5 @@
 ## Deliverable 3: 
 
 * Select four cities.
-* Use API to plot the driving map 
-* Plot the four cities on the map 
+* Use API to plot the driving map. 
+* Plot the four cities on the map.
